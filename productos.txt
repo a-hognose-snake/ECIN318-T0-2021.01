@@ -1,0 +1,21 @@
+Manga,One Piece,32,3400,Tienda Kame Game
+Manga,Hunter x Hunter,23,8500,Tienda Game House
+Comic,Superman,3,2300,Tienda Kame Game
+Comic,Superman,24,6400,Tienda Una Pieza
+Comic,Batman,65,5000,Tienda Kame Game
+Comic,Batman,87,2100,Tienda Kami Sama
+Comic,Batman,87,3300,Tienda PillaLaVaca
+Manga,Kimetsu no Yaiba,23,9200,Tienda Kami Sama
+Manga,Kimetsu no Yaiba,65,7500,Tienda Game House
+Manga,Kimetsu no Yaiba,9,6300,Tienda Una Pieza
+Comic,Spiderman,65,3500,Tienda Kame Game
+Comic,Spiderman,23,5400,Tienda Game House
+Comic,Spiderman,45,5400,Tienda PillaLaVaca
+Comic,Mickey Mouse,34,2800,Tienda Kame Game
+Comic,Mickey Mouse,67,2700,Tienda Kami Sama
+Manga,Naruto,10,7400,Tienda Kame Game
+Manga,Naruto,54,1500,Tienda PillaLaVaca
+Manga,Dragon ball,23,2100,Tienda Kami Sama
+Manga,Dragon ball,63,2600,Tienda Game House
+Manga,Jujutsu Kaisen,28,6300,Tienda Kame Game
+Manga,Jujutsu Kaisen,16,7300,Tienda Una Pieza

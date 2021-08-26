@@ -1,0 +1,5 @@
+Tienda Kame Game,150000
+Tienda Kami Sama,230000
+Tienda Game House,120000
+Tienda PillaLaVaca,90000
+Tienda Una Pieza,87000
